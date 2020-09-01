@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Contador de tiempo en el navegador",
+    "description": "Dara una suma total del tiempo de uso del navegador, dando cortos tiempos para descanzar",
+    "version": "1.0",
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_title": "Contador",
+        "default_icon": "logo.png"
+    }
+}

@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    width: 400px;
+    height: 250px;
+    background: #FF5733;
+    padding: 10px;
+    color: aliceblue;
+}
